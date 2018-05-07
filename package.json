@@ -1,0 +1,45 @@
+{
+  "name": "the-schedule-project",
+  "version": "0.1.0",
+  "private": true,
+  "rnpm": {
+    "assets": [
+      "./assets/fonts/"
+    ]
+  },
+  "devDependencies": {
+    "babel-preset-react-native-stage-0": "^1.0.1",
+    "jest": "^22.4.3",
+    "jest-react-native": "^18.0.0",
+    "react-test-renderer": "16.2.0"
+  },
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "test": "jest"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^6.3.1",
+    "axios": "^0.18.0",
+    "native-base": "^2.4.1",
+    "react": "16.2.0",
+    "react-native": "0.52.0",
+    "react-native-linear-gradient": "^2.4.0",
+    "react-native-modal": "^5.4.0",
+    "react-native-modal-datetime-picker": "^5.1.0",
+    "react-native-navigation": "^1.1.428",
+    "react-native-snap-carousel": "^3.6.0",
+    "react-native-switch": "^1.4.0",
+    "react-native-switch-pro": "^0.4.10",
+    "react-native-uuid": "^1.4.9",
+    "react-native-video": "^2.0.0",
+    "react-redux": "^5.0.7",
+    "redux": "^3.7.2",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.2.0"
+  }
+}
