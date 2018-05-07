@@ -18,4 +18,4 @@
 
 ## Demonstration : (click to play)
 
-[![KWalls-MainScreen](https://media.giphy.com/media/5qFh3W6dUefqJo3yyf/giphy.gif)](https://vimeo.com/268391543 "KWalls-MainScreen")
+[![Schedule-MainScreen](https://media.giphy.com/media/5qFh3W6dUefqJo3yyf/giphy.gif)](https://vimeo.com/268391543 "Schedule-MainScreen")
